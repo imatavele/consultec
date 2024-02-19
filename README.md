@@ -1,0 +1,2 @@
+# consultec.io
+Static files 
